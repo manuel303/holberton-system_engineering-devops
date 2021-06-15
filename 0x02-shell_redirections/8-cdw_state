@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -a > ls_cdw_content
